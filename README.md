@@ -1,4 +1,4 @@
 sasha
 =====
 
-Geometric transformation on Vecotors
+Geometric transformation on Vectors
